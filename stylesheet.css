@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(245, 110, 0);
+    background-color: lightgray;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+li {
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 450px;
+}
